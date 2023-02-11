@@ -2,3 +2,4 @@ Juan Manuel Rodríguez Sánchez
 18
 Aprender el paradigma de POO y gran parte de Java, con el fin de aplicar estos conocimientos en el ámbito académico, y en un futuro en el profesional
 Ahora se pudo crear el commit y subir la carpeta debido a que se creó el archivo respuesta dentro de esta
+Porque se pueden generar conflictos al tener diferentes cambios en dos archivos a la vez
